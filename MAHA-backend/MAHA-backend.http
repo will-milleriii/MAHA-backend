@@ -1,0 +1,6 @@
+@MAHA_backend_HostAddress = http://localhost:5187
+
+GET {{MAHA_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
